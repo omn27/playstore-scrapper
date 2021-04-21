@@ -1,6 +1,6 @@
 # Buscando correos expirados
 
-_El proyecto esta inspirado en una serie de [articulos](https://www.elladodelmal.com/2020/03/el-club-de-los-poetas-muertos-parte-1.html) de Chema Alonso en el cual el riesgo que hay actualmente al instalar apps en android, ya que con en muchos casos, las aplicaciones que tenemos instalamos solicitan mas permisos que los necesarios para un funcionamento normal._
+_El proyecto esta inspirado en una serie de [articulos](https://www.elladodelmal.com/2020/03/el-club-de-los-poetas-muertos-parte-1.html) de Chema Alonso en el cual muestra el riesgo que hay actualmente al instalar apps en android, ya que con en muchos casos, las aplicaciones que tenemos instalamos solicitan mas permisos que los necesarios para un funcionamento normal._
 
 ## Comenzando 🚀
 
