@@ -27,12 +27,12 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 ```
 % git clone https://github.com/omn27/playstore-scrapper.git
 % cd playstore-scrapper
-% python3 -m pip install -r requirements.txt
-% python3 main.py
+% python -m pip install -r requirements.txt
+% python main.py
 ```
 
 ### Ejecutar
 
 ```
-% python3 scrapper.py
+% python scrapper.py
 ```
