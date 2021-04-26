@@ -20,6 +20,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 * Python 3.x instalado
 * Python 3 PIP instalado
+* Tor como servicio
 
 ### Instalación 🔧
 
