@@ -1,6 +1,6 @@
 # Buscando correos expirados
 
-_El proyecto esta inspirado en una serie de [articulos](https://www.elladodelmal.com/2020/03/el-club-de-los-poetas-muertos-parte-1.html) de Chema Alonso en el cual muestra el riesgo que hay actualmente al instalar apps en android, ya que con en muchos casos, las aplicaciones que tenemos instalamos solicitan mas permisos que los necesarios para un funcionamento normal._
+_El proyecto esta inspirado en una serie de [articulos](https://www.elladodelmal.com/2020/03/el-club-de-los-poetas-muertos-parte-1.html) de Chema Alonso en el cual muestra el riesgo que hay actualmente al instalar apps en android, ya que en muchos casos, las aplicaciones que tenemos instaladas solicitan mas permisos que los necesarios para un funcionamento normal._
 
 # Objetivo
 El objetivo es encontrar correos que esten dados de baja por inactividad en hotmail, outlook, protonmail o el que sea, pero que tengan cuenta activa en android developer. Asi, se podria registrar en outlook, hotmail o el que sea, el correo que se dio de baja y poder solicitar un restablecimiento de la contraseña en android developer.
